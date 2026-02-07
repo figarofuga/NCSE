@@ -1,6 +1,6 @@
 // Get Polylux from the official package repository
-#import "@preview/touying:0.5.5": *
-#import "@preview/fletcher:0.5.1" as fletcher: diagram, node, edge
+#import "@preview/touying:0.6.1": *
+#import "@preview/fletcher:0.5.8" as fletcher: diagram, node, edge
 #import themes.university: *
 
 #import "@preview/numbly:0.1.0": numbly
@@ -8,8 +8,8 @@
 #show: university-theme.with(
   aspect-ratio: "16-9",
   config-info(
-    title: [下垂体偶発腫について],
-    subtitle: [なんで頭部CT撮ってんだよ！],
+    title: [一過性黒内障],
+    subtitle: [また、塞栓源探しっすか・・・・・・],
     author: [Nozomi Niimi],
     date: datetime.today(),
     institution: [東京医療センター総合内科],
@@ -89,10 +89,12 @@
 
 == 症例 
 
-- 79歳女性、自宅内転倒で救急搬送
-- 頭部CTで下垂体腺腫を指摘される
-- 依頼文にて、「偶発的に下垂体腺腫が指摘されておりそちらの精査もお願いします」と
+- 外来にて眼科より他科依頼
+- 48歳男性、半年前より月1回程度の頻度で左目が一過性に完全に見えなくなる
+- 依頼文にて、「塞栓源検索および血管評価お願いします」
 
 // #link((page: 1, x: 0pt, y: 0pt))[
 //   Go to top
 // ]
+
+== 一過性黒内障 (amaurosis fugax) とは
