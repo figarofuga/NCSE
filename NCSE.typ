@@ -8,8 +8,8 @@
 #show: university-theme.with(
   aspect-ratio: "16-9",
   config-info(
-    title: [一過性黒内障],
-    subtitle: [また、塞栓源探しっすか・・・・・・],
+    title: [NCSEとその周辺],
+    subtitle: [腰椎穿刺と造影MRIのキャン待ち交渉っすか・・・・・・],
     author: [Nozomi Niimi],
     date: datetime.today(),
     institution: [東京医療センター総合内科],
